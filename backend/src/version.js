@@ -1,6 +1,6 @@
 // Меняйте эти значения в pull request, чтобы увидеть разницу между продом и превью.
 module.exports = {
-  label: 'v1 — main',
+  label: 'v2 — feature/preview-demo',
   // Версия контракта API. Фронтенд сравнивает её со своей и подсвечивает расхождение.
   apiContract: 1,
 };
